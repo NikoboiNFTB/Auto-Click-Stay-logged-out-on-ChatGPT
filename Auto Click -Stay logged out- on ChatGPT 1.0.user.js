@@ -7,6 +7,7 @@
 // @match        https://chatgpt.com/
 // @grant        none
 // @run-at       document-idle
+// @icon         https://cdn.oaistatic.com/assets/favicon-eex17e9e.ico
 // ==/UserScript==
 
 (function () {
